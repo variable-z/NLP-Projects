@@ -8,6 +8,8 @@ Welcome to my repository of machine learning projects! This repository includes 
 - Text preprocessing and feature extraction.
 - Utilization of various NLP models for classification.
 - Performance evaluation using metrics such as accuracy, precision, recall, and F1-score.
+### Checkout our paper
+`[Link ISBN: 978-1-6654-6756-8](https://ieeexplore.ieee.org/document/9853174)`
 
 ## Project 2: Recognition of Objects with Convolutional Neural Network
 **Objective**: This project focuses on using Convolutional Neural Networks (CNNs) to recognize and classify objects in images. It utilizes the CIFAR-10 dataset to train and test the CNN model.
@@ -28,9 +30,7 @@ Welcome to my repository of machine learning projects! This repository includes 
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `nltk`, `tensorflow` or `pytorch`,`matplotlib`
 
 ### How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
+1. Clone this repository
 2. Navigate to the project directory
 3. Install the required packages
 4. Run the script to train and evaluate the model
