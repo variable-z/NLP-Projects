@@ -43,5 +43,5 @@ For further details, please refer to the specific project directories where you'
 
 Feel free to reach out if you have any questions or need further assistance!
 
-Author: ['Sai Pavan']
+Author: Sai Pavan
 GitHub: variable-z
