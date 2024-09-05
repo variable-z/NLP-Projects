@@ -41,4 +41,7 @@ Contributions: If you would like to contribute to any of these projects, please 
 For further details, please refer to the specific project directories where you'll find additional documentation and code.
 
 
-Replace placeholders like `variable-z`, `NLP-Projects`. Also, ensure that the project directories and file names match the actual structure of your repository.
+Feel free to reach out if you have any questions or need further assistance!
+
+Author: ['Sai Pavan']
+GitHub: variable-z
